@@ -18,6 +18,6 @@ Uber has been facing several challenges in the New Delhi area with high cancella
 ## 4. pd.to_datetime()
    Date and time were changed from object into datetime data types, and seconds were removed from time.
 
-# 📋The total number of rows is now 148,767.
+## 📋The total number of rows is now 148,767.
 
 <img width="383" height="217" alt="image" src="https://github.com/user-attachments/assets/da03656f-b008-4165-81bb-22c5c1edf240" />
