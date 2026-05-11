@@ -33,7 +33,7 @@ Uber has been facing several challenges in the New Delhi area with high cancella
 ---
 # Cancellations - Power BI
 
-<img width="569" height="320" alt="image" src="https://github.com/user-attachments/assets/967d52a0-0375-4288-8870-854c640033be" />
+<img width="574" height="320" alt="image" src="https://github.com/user-attachments/assets/964f4335-d814-45ab-993a-e6ace78a7a74" />
 
 ### top reason for driver cancellations = Customer related issues
 
