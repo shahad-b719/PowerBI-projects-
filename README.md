@@ -27,3 +27,7 @@ Uber has been facing several challenges in the New Delhi area with high cancella
 
 ### Highest booking value times = Weekends 4pm - 9pm and 10 am
 
+### Vehicle type with the highest booking value = Auto 
+
+### Payment method with the highest booking value = UPI 
+
