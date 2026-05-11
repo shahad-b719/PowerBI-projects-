@@ -4,22 +4,21 @@ Uber has been facing several challenges in the New Delhi area with high cancella
 ---
 # 🧹Data Cleaning (Python)
 ⭐Booking_Id = Unique identifier
----------
-1.  duplicated().sum() = 1,233 duplicates
----------
 
+------
+duplicated().sum() = 1,233 duplicates
+------
    Used to assess whether there were any duplicates in the Booking ID column
-
----------
-2.  drop_duplicates()
+   
+drop_duplicates()
 ---------
    used to remove duplicates.
----------
-3.  df.dtypes()
+
+df.dtypes()
 ---------
    Used to determine the data type of each variable, several variables were identified to have the wrong data type.
----------
-4. pd.to_datetime()
+
+pd.to_datetime()
 ---------
    Date and time were changed from object into datetime data types, and seconds were removed from time.
 
