@@ -25,5 +25,5 @@ Uber has been facing several challenges in the New Delhi area with high cancella
 
 <img width="567" height="328" alt="image" src="https://github.com/user-attachments/assets/0e5e5996-ea6f-452a-bf63-992469346983" />
 
-### Peak Value = Weekends 4pm - 9pm and 10 am
+### Highest booking value times = Weekends 4pm - 9pm and 10 am
 
