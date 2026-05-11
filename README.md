@@ -33,7 +33,7 @@ Uber has been facing several challenges in the New Delhi area with high cancella
 ---
 # Cancellations - Power BI
 
-<img width="573" height="322" alt="image" src="https://github.com/user-attachments/assets/c9ececb7-ca1c-4ce5-a5e5-75073bb11e0e" />
+<img width="569" height="320" alt="image" src="https://github.com/user-attachments/assets/967d52a0-0375-4288-8870-854c640033be" />
 
 ### top reason for driver cancellations = Customer related issues
 
@@ -41,3 +41,4 @@ Uber has been facing several challenges in the New Delhi area with high cancella
 
 ### Driver vs Customer Cancellations = Instances of drivers cancellations are 44% higher than customer cancellations
 
+### Months with the most cancellations = July & May
