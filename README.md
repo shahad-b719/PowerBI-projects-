@@ -22,4 +22,8 @@ Uber has been facing several challenges in the New Delhi area with high cancella
 ## 📋The total number of rows is now 148,767.
 
 # Booking value analysis - Power BI
-<img width="383" height="217" alt="image" src="https://github.com/user-attachments/assets/da03656f-b008-4165-81bb-22c5c1edf240" />
+
+<img width="567" height="328" alt="image" src="https://github.com/user-attachments/assets/0e5e5996-ea6f-452a-bf63-992469346983" />
+
+### Peak Value = Weekends 4pm - 9pm and 10 am
+
