@@ -35,9 +35,9 @@ Uber has been facing several challenges in the New Delhi area with high cancella
 
 <img width="574" height="320" alt="image" src="https://github.com/user-attachments/assets/964f4335-d814-45ab-993a-e6ace78a7a74" />
 
-### top reason for driver cancellations = Customer related issues
+### Top reason for driver cancellations = Customer related issues
 
-### top reason for customer cancellations = Wrong Address
+### Top reason for customer cancellations = Wrong Address
 
 ### Driver vs Customer Cancellations = Instances of drivers cancellations are 44% higher than customer cancellations
 
