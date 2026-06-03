@@ -1,8 +1,7 @@
 ---
 # 💼 Business Scenario 
 --- 
-Uber has been facing several challenges in the New Delhi area with high cancellation rates, declining customer satisfaction and low demand for certain vehicle types. You have been hired as a consultant by Uber to analyze the trends in the dataset provided and suggest actionable recommendations to overcome these challenges.
-
+Uber has been facing several challenges in the New Delhi area with high cancellation rates, declining customer satisfaction and low demand for certain vehicle types. You have been hired by Uber to analyze the trends in the dataset provided.
 # 🧹Data Cleaning (Python)
 ⭐Booking_Id = Unique identifier
 
